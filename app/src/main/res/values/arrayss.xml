@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name = "cartype">
+        <item>아반떼</item>
+        <item>소나타</item>
+        <item>그랜져</item>
+        <item>제네시스</item>
+    </string-array>
+</resources>
